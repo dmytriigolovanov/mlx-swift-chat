@@ -4,4 +4,7 @@
    <FileRef
       location = "group:LMChatAssistant">
    </FileRef>
+   <FileRef
+      location = "group:LMChatApp.xcodeproj">
+   </FileRef>
 </Workspace>
